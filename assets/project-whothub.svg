@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-labelledby="title desc">
+  <title id="title">WHOTHub project illustration</title><desc id="desc">Abstract dark card-table illustration with electric-blue card shapes.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#090F1C"/><stop offset="1" stop-color="#0A1B33"/></linearGradient><radialGradient id="glow"><stop stop-color="#1677FF" stop-opacity=".38"/><stop offset="1" stop-color="#1677FF" stop-opacity="0"/></radialGradient><linearGradient id="card" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101C30"/><stop offset="1" stop-color="#09101D"/></linearGradient></defs>
+  <rect width="1200" height="230" rx="18" fill="url(#bg)" stroke="#17345B"/><ellipse cx="980" cy="120" rx="280" ry="170" fill="url(#glow)"/>
+  <path d="M38 182H690" stroke="#1677FF" stroke-opacity=".28"/><circle cx="38" cy="182" r="3" fill="#64B5FF"/>
+  <text x="48" y="90" fill="#F5F7FA" font-family="Segoe UI,Arial,sans-serif" font-size="42" font-weight="700" letter-spacing="1">WHOTHub</text>
+  <text x="50" y="124" fill="#64B5FF" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" letter-spacing="3">REAL-TIME MULTIPLAYER</text>
+  <text x="50" y="157" fill="#929BAC" font-family="Segoe UI,Arial,sans-serif" font-size="15">A Nigerian online WHOT platform</text>
+  <g transform="translate(810 30) rotate(-13 110 86)"><rect width="126" height="166" rx="14" fill="url(#card)" stroke="#24538A" stroke-width="2"/><circle cx="63" cy="80" r="24" fill="none" stroke="#64B5FF" stroke-width="3"/><circle cx="63" cy="80" r="5" fill="#1677FF"/></g>
+  <g transform="translate(927 23) rotate(3 110 86)"><rect width="126" height="166" rx="14" fill="url(#card)" stroke="#2875D6" stroke-width="2"/><path d="M63 51 88 95H38Z" fill="none" stroke="#64B5FF" stroke-width="3" stroke-linejoin="round"/><circle cx="63" cy="80" r="3" fill="#1677FF"/></g>
+  <g transform="translate(1044 30) rotate(15 110 86)"><rect width="126" height="166" rx="14" fill="url(#card)" stroke="#24538A" stroke-width="2"/><path d="M47 64 79 96M79 64 47 96" stroke="#64B5FF" stroke-width="4" stroke-linecap="round"/><circle cx="63" cy="80" r="31" fill="none" stroke="#1677FF" stroke-opacity=".55"/></g>
+  <path d="M965 60 1010 34" stroke="#64B5FF" stroke-opacity=".55"><animate attributeName="opacity" values=".25;.9;.25" dur="5s" repeatCount="indefinite"/></path>
+</svg>
