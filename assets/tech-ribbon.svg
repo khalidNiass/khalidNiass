@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="132" viewBox="0 0 1200 132" role="img" aria-labelledby="title desc">
+  <title id="title">Verified engineering toolkit</title><desc id="desc">JavaScript, TypeScript, React, Node.js, Express.js, PostgreSQL, Supabase, Socket.IO, Tailwind CSS, and Vite.</desc>
+  <defs><linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0A1220"/><stop offset="1" stop-color="#070B13"/></linearGradient><linearGradient id="shine" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#1677FF" stop-opacity="0"/><stop offset=".5" stop-color="#64B5FF" stop-opacity=".95"/><stop offset="1" stop-color="#1677FF" stop-opacity="0"/></linearGradient><clipPath id="panelClip"><rect x="1" y="1" width="1198" height="130" rx="18"/></clipPath></defs>
+  <rect x="1" y="1" width="1198" height="130" rx="18" fill="url(#panel)" stroke="#17345B"/>
+  <text x="36" y="28" fill="#929BAC" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="600" letter-spacing="2.5">ENGINEERING TOOLKIT</text>
+  <g clip-path="url(#panelClip)">
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;-1140 0" dur="38s" repeatCount="indefinite"/>
+      <g fill="#0B1729" stroke="#214A7C">
+        <rect x="32" y="47" width="108" height="42" rx="10"/><rect x="152" y="47" width="108" height="42" rx="10"/><rect x="272" y="47" width="78" height="42" rx="10"/><rect x="362" y="47" width="94" height="42" rx="10"/><rect x="468" y="47" width="108" height="42" rx="10"/><rect x="588" y="47" width="118" height="42" rx="10"/><rect x="718" y="47" width="100" height="42" rx="10"/><rect x="830" y="47" width="102" height="42" rx="10"/><rect x="944" y="47" width="98" height="42" rx="10"/><rect x="1054" y="47" width="68" height="42" rx="10"/>
+      </g>
+      <g fill="#DCEBFA" font-family="Segoe UI,Arial,sans-serif" font-size="14" text-anchor="middle">
+        <text x="86" y="73">JavaScript</text><text x="206" y="73">TypeScript</text><text x="311" y="73">React</text><text x="409" y="73">Node.js</text><text x="522" y="73">Express.js</text><text x="647" y="73">PostgreSQL</text><text x="768" y="73">Supabase</text><text x="881" y="73">Socket.IO</text><text x="993" y="73">Tailwind</text><text x="1088" y="73">Vite</text>
+      </g>
+    </g>
+    <g transform="translate(1140 0)">
+      <g fill="#0B1729" stroke="#214A7C">
+        <rect x="32" y="47" width="108" height="42" rx="10"/><rect x="152" y="47" width="108" height="42" rx="10"/><rect x="272" y="47" width="78" height="42" rx="10"/><rect x="362" y="47" width="94" height="42" rx="10"/><rect x="468" y="47" width="108" height="42" rx="10"/><rect x="588" y="47" width="118" height="42" rx="10"/><rect x="718" y="47" width="100" height="42" rx="10"/><rect x="830" y="47" width="102" height="42" rx="10"/><rect x="944" y="47" width="98" height="42" rx="10"/><rect x="1054" y="47" width="68" height="42" rx="10"/>
+      </g>
+      <g fill="#DCEBFA" font-family="Segoe UI,Arial,sans-serif" font-size="14" text-anchor="middle">
+        <text x="86" y="73">JavaScript</text><text x="206" y="73">TypeScript</text><text x="311" y="73">React</text><text x="409" y="73">Node.js</text><text x="522" y="73">Express.js</text><text x="647" y="73">PostgreSQL</text><text x="768" y="73">Supabase</text><text x="881" y="73">Socket.IO</text><text x="993" y="73">Tailwind</text><text x="1088" y="73">Vite</text>
+      </g>
+    </g>
+    <rect x="-260" y="104" width="250" height="2" fill="url(#shine)"><animateTransform attributeName="transform" type="translate" values="0 0;1460 0" dur="16s" repeatCount="indefinite"/></rect>
+  </g>
+</svg>
