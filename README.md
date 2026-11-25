@@ -1,15 +1,6 @@
-<table align="center" width="100%">
-  <tbody>
-    <tr>
-      <td width="78%" valign="middle">
-        <img src="./assets/profile-banner.svg" width="100%" alt="Khalid Niass, Full-Stack Software Engineer in Lagos, Nigeria" />
-      </td>
-      <td width="22%" align="center" valign="middle">
-        <img src="./assets/profile-avatar-circle.png" width="100%" alt="Khalid Niass profile photo" />
-      </td>
-    </tr>
-  </tbody>
-</table>
+<p align="center">
+  <img src="./assets/profile-banner.gif" width="100%" alt="Khalid Niass, Full-Stack Software Engineer in Lagos, Nigeria" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=3200&amp;pause=900&amp;color=64B5FF&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Building+useful+digital+products;Full-stack+engineering+%7C+thoughtful+frontend;Reliable+APIs+%7C+real-time+experiences" alt="Building useful digital products, thoughtful frontend, reliable APIs, and real-time experiences" />
