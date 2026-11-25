@@ -2,7 +2,7 @@
   <tbody>
     <tr>
       <td width="78%" valign="middle">
-        <img src="./assets/profile-hero.svg" width="100%" alt="Khalid Niass, Full-Stack Software Engineer in Lagos, Nigeria" />
+        <img src="./assets/profile-banner.svg" width="100%" alt="Khalid Niass, Full-Stack Software Engineer in Lagos, Nigeria" />
       </td>
       <td width="22%" align="center" valign="middle">
         <img src="./assets/profile-avatar-circle.png" width="100%" alt="Khalid Niass profile photo" />
