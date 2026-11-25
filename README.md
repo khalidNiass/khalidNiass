@@ -45,7 +45,7 @@ A Nigerian online WHOT platform for browser-based multiplayer play. The live exp
 
 **Stack:** React, TypeScript, Node.js, Express.js, Socket.IO, Supabase PostgreSQL, and Flutterwave.
 
-**Play:** [whothub.com](https://whothub.com/) &nbsp; / &nbsp; **Source:** Private repository.
+**Play:** [whothub.com](https://whothub.com/) &nbsp; / &nbsp; **Source:** [Private repository (access restricted)](https://github.com/khalidNiass/WHOTHub).
 
 ### STJ Family Homes
 
@@ -55,7 +55,7 @@ A hospitality and accommodation management platform with public-facing pages and
 
 **Stack:** React, TypeScript, Tailwind CSS, and Vite.
 
-**Source:** Private repository. A public demo is not currently available.
+**Source:** [Private repository (access restricted)](https://github.com/khalidNiass/STJ-family-homes). A public demo is not currently available.
 
 ### More public work
 
